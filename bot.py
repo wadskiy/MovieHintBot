@@ -1,5 +1,4 @@
 from aiogram import Bot, Dispatcher, types, executor
-import asyncio
 import os
 import random
 
